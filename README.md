@@ -37,3 +37,6 @@ Vista integral de métricas ejecutivas como ingresos, total de órdenes y tasa d
 
 ![Análisis 7](Dashboard_capturas/Analisis7.png)
 
+## 👩‍💻 Autora
+
+Jasmin Díaz - Estudiante de Ingeniería en Sistemas - UTEC
