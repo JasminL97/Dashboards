@@ -1,4 +1,5 @@
 📁 Mini actividades de Análisis con Power BI
+
 Este repositorio contiene diversos dashboards realizados en Power BI que permiten analizar datos desde diferentes perspectivas: ventas, rendimiento, productos, sensores IoT y más realizados durante mi pre especialización de la carrera.
 
 
