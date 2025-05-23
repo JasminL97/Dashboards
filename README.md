@@ -20,7 +20,7 @@ Muestra los picos de actividad a lo largo del día, junto con datos de ubicació
 ![Análisis 4](Dashboard_capturas/Analisis4.png)
 
 
-📊 Análisis 5: Dashboard de KPIs de Rendimiento
+📊 Análisis 5: Dashboard de sensor de Rendimiento
 Panel enfocado en indicadores clave como ingresos, márgenes y crecimiento. Se destacan con visuales circulares para una rápida evaluación del rendimiento general.
 
 ![Análisis 5](Dashboard_capturas/Analisis5.png)
